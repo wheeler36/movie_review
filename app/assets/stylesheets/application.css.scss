@@ -29,5 +29,26 @@ body {
 	border-bottom: 1px solid #EAEAEA;
 	.star-rating {
 		padding-bottom: 8px;
+		img {
+			height: 25px;
+			width: 25px;
+		}
+	}
+}
+
+.field {
+	#star-rating {
+		img {
+			height: 25px;
+			width: 25px;
+		}
+	}
+}
+
+.star-rating {
+	padding-bottom: 8px;
+	img {
+		height: 25px;
+		width: 25px;
 	}
 }
